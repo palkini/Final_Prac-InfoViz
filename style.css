@@ -316,3 +316,9 @@ h3{
 h1{
   color: #144272;
 }
+#footer{
+  background-color: #0A2647;
+  height: 55px;
+  text-align: center;
+  color: whitesmoke;
+}
